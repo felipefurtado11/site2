@@ -1,6 +1,12 @@
+img{
+    height: 312px;
+    margin-left: 85px;
+    background-color:#BBBBBB;
+}
+
 header{
     background: #BBBBBB;
-    padding: 80PX 0;/* espaço em cima e embaixo do cabeçalho - espaçamento interno*/
+    padding: 20PX 0;/* espaço em cima e embaixo do cabeçalho - espaçamento interno*/
 }
 
 .caixa{
